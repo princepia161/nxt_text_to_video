@@ -1,6 +1,7 @@
-import pyromod.listen
+
 from config import Config
 from pyrogram import Client as bot, idle
+import pyromod.listen
 import asyncio
 import logging
 
